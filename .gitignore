@@ -1,8 +1,9 @@
-# Dev-C++ 5.11 .gitignore 模板
+﻿# Dev-C++ 5.11 .gitignore 模板
 
 # Dev-C++ 临时文件
 Makefile.win
 *.layout
+*_private.*
 
 # 生成文件
 *.o
